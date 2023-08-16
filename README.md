@@ -1,5 +1,5 @@
 
-    👋 Hi, my name is Vikas Kumar.
+    👋 Hi, my name is Vikas Kumar Garg.
     🚀 I help software development teams reach rapid delivery of high-quality software.
     🛠 My area of expertise is the development and implementation of reliable test automation solutions and tools for functional, performance and security testing.
     💻 Java, JavaScript and Python are the languages for my test tool development.
